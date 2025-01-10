@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">UIDesign</string>
+    <string name="Reset">Reset</string>
+    <string name="TermsCond">I agree with Terms &amp; Conditions</string>
+    <string name="Register">Register</string>
+    <string name="geo">Allow geolocation</string>
+    <string name="subtitle">Coding with love</string>
+    <string name="darkMode">Dark mode</string>
+    <string name="title">MEETDEVS</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="confirm">Confirm</string>
+    <string name="photo">Upload photo</string>
+    <string name="image">image</string>
+    <string name="hintName">Insert name</string>
+    <string name="hintPassword">Insert password</string>
+    <string name="hintPasswordConfirm">Confirm password</string>
+    <string name="darkModeButton">DarkMode</string>
+    <string name="darkModeText">Dark mode</string>
+</resources>
