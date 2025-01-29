@@ -1,80 +1,15 @@
-# Sistema operativo
-.DS_Store
-Thumbs.db
-
-# Archivos de compilación
-/build/
-.gradle/
-local.properties
 *.iml
-.idea/
-
-# Configuración del entorno
-/.vscode/
-*.log
-
-# Archivos de caché
-.caches/
-*.apk
-*.ap_
-*.dex
-*.class
-*.jar
-*.keystore
-*.so
-
-# Configuración del entorno local
-/captures/
-.externalNativeBuild/
-*.hprof
-*.orig
-*.rej
-*.swo
-*.swp
-
-# Archivos de configuración de Android Studio
-.idea/caches
-.idea/libraries
-.idea/modules.xml
-.idea/workspace.xml
-.idea/misc.xml
-.idea/gradle.xml
-.idea/assetWizardSettings.xml
-.idea/navEditor.xml
-.idea/encodings.xml
-.idea/codeStyles/
-.idea/dictionaries/
-.idea/httpRequests/
-
-# Generados por Gradle
-gradle-wrapper.jar
-.gradle/
-/gradle/
-*.properties
-
-# Archivos específicos de compilación
-*.apk
-*.ap_
-*.dex
-*.class
-*.war
-*.ear
-*.jks
-
-# Archivos específicos de pruebas y caché
-/test-results/
-connected_output.json
-.coverage_data/
-coverage.ec
-*.un~
-
-# Android NDK
-obj/
-.libs/
-*.lock
-
-# Android Studio Profiler
-.idea/caches/build_file_checksums.ser
-
-# Archivos de configuración local
+.gradle
 /local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
